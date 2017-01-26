@@ -4,7 +4,7 @@
 <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/HenryHudson.jpg/220px-HenryHudson.jpg">
 Henry Hudson was an English trader who was lost at sea
 
-
+<img src = "https://s-media-cache-ak0.pinimg.com/originals/b8/cb/9f/b8cb9f574120983c128cbc953bc6eea8.jpg">
 
 
 
