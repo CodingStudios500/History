@@ -12,8 +12,13 @@ He tried to find a new way to China but his men mutinied against him.
 <h1>John Smyth</h1>
 <img src = "https://tvaraj.files.wordpress.com/2013/11/john-smyth-born-1570-died-august-28-1612-source-wikipedia.jpg?w=216&h=300">
 John Smyth was a priest of the Angelican church till 1606. He became separist. Many people call him the father of the baptist church.
+<img src = "http://static.newworldencyclopedia.org/thumb/b/b6/Baptism_Christ_immersion.jpg/250px-Baptism_Christ_immersion.jpg">
+<img src = "http://image.slidesharecdn.com/04april272014baptistbeliefs-140526210553-phpapp02/95/04-april-27-2014-baptist-beliefs-11-638.jpg?cb=1401138477">
 
 
+<img src = "">
+<img src = "">
+<img src = "">
 
 
 
