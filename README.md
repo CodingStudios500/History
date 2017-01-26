@@ -16,8 +16,8 @@ John Smyth was a priest of the Angelican church till 1606. He became separist. M
 <img src = "http://image.slidesharecdn.com/04april272014baptistbeliefs-140526210553-phpapp02/95/04-april-27-2014-baptist-beliefs-11-638.jpg?cb=1401138477">
 
 
-<img src = "">
-<img src = "">
+<img src = "http://a5.files.biography.com/image/upload/c_fit,cs_srgb,dpr_1.0,h_1200,q_80,w_1200/MTIwNjA4NjMzOTQzMDY2MTI0.jpg">
+<img src = "http://digital.lib.lehigh.edu/trial/pocahontas/images/RMSully1852.jpg">
 <img src = "">
 
 
